@@ -1,0 +1,2 @@
+C:\Users\marti\Desktop\CS467\SimpleOpenMP\x64\Debug\SimpleOpenMP.exe
+C:\Users\marti\Desktop\CS475\SimpleOpenMP\x64\Debug\SimpleOpenMP.exe

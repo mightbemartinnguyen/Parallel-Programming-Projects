@@ -1,0 +1,4 @@
+﻿  proj01.cpp
+C:\Users\marti\Desktop\CS475\proj01\proj01.cpp(118,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\marti\Desktop\CS475\proj01\proj01.cpp(119,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  proj01.vcxproj -> C:\Users\marti\Desktop\CS475\proj01\x64\Debug\proj01.exe
